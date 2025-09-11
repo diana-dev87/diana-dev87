@@ -1,7 +1,6 @@
 # Olá, eu sou a Diana 👋
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-✨ Apaixonada por tecnologia, interfaces simples e funcionais  
 
 ---
 
