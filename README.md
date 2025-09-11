@@ -23,9 +23,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![Diana's GitHub stats](https://github.com/diana-dev87)
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=diana-dev87&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diana-dev87&layout=compact&theme=dracula)
 
 ---
 
 ## 📫 Onde me encontrar:
-[![LinkedIn](https://www.linkedin.com/in/dianarcmello)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diana-dev87)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dianarcmello)
