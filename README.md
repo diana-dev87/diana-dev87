@@ -1,7 +1,7 @@
 <h1 align="center">🦋 Seja bem-vindo(a), meu nome é Diana 🦋</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/B0vK1Ck.png" width="200px">
+  
 </p>
 
 💻 **Cursando Análise e Desenvolvimento de Sistemas**  
